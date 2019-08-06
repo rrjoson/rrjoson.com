@@ -10,7 +10,7 @@ const config = {
   dateFormat: "MMMM Do, YYYY",
   siteDescription: "",
   siteRss: "/rss.xml",
-  googleAnalyticsID: "",
+  googleAnalyticsID: "UA-145099050-1",
   disqusShortname: "",
   postDefaultCategoryID: "Tech",
   userName: "",
