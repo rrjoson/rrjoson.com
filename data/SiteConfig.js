@@ -3,7 +3,7 @@ const config = {
   siteTitleShort: "RR Joson",
   siteTitleAlt: "RR Joson",
   siteLogo: "",
-  siteUrl: "",
+  siteUrl: "rrjoson.com",
   repo: "",
   pathPrefix: "",
   dateFromFormat: "YYYY-MM-DD",
