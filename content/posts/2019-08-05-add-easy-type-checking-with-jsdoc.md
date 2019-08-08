@@ -8,8 +8,8 @@ categories:
   - Tools
   - JavaScript
 tags:
-  - rest
-  - api
+  - jsdoc
+  - documentation
 ---
 
 ### Preparing an example
@@ -53,7 +53,5 @@ const getFullName = (firstName, lastName) => {
   return `${firstName} + ${lastName}`;
 };
 ```
-
-Here’s what we get:
 
 
