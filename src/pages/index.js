@@ -19,7 +19,10 @@ export default class Index extends Component {
         <SEO />
         <div className="container">
           <div className="lead">
-            <h1>{`Hi, I'm Ric`}</h1>
+            <h1>{`Hi, I'm RR`}</h1>
+            <p>
+              {`I'm a classically trained pianist turned software engineer who loves working with UX designers to build interfaces that are a delight to use.`}
+            </p>
             <div className="social-buttons">
               <div>
                 <a
