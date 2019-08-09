@@ -11,9 +11,6 @@ tags:
   - i18n
 ---
 
-![](../images/useFormatMessage.gif)
-
-
 ### Preparing an example
 
 Let's say you want to internationalize a component that renders the text "Hello World"
@@ -96,4 +93,4 @@ t('general.helloWorld')
 
 ## Conclusion
 
-We only removed single step and might not seem that much, but imagine if you would have to internationalize a large codebase, this can save you a lot of time.
+We only a removed single step and might not seem much, but imagine if you have to internationalize a large codebase, it might just save you some time.
