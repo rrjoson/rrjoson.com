@@ -2,4 +2,4 @@
 
 ## Acknowledgements
 
-- Tania Rasia - [Gatsby Theme](https://github.com)
+- Tania Rascia - [Gatsby Theme](https://github.com/taniarascia/taniarascia.com)
