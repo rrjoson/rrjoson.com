@@ -1,9 +1,9 @@
-import React, { Component } from 'react'
-import GitHubButton from 'react-github-btn'
+import React, { Component } from "react";
+import GitHubButton from "react-github-btn";
 
 export default class ProjectListing extends Component {
   render() {
-    const { projects } = this.props
+    const { projects } = this.props;
 
     return (
       <section className="projects">
@@ -23,17 +23,26 @@ export default class ProjectListing extends Component {
             <p>{project.description}</p>
             <div className="buttons">
               {project.path && (
-                <a className="button" href={project.path} target="_blank" rel="noopener noreferrer">
+                <a
+                  className="button"
+                  href={project.path}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
                   Site
                 </a>
               )}
-              <GitHubButton href={project.source} data-size="large" data-show-count="true">
-                Source
+              <GitHubButton
+                href={project.source}
+                data-size="large"
+                data-show-count="true"
+              >
+                Contributions
               </GitHubButton>
             </div>
           </div>
         ))}
       </section>
-    )
+    );
   }
 }
