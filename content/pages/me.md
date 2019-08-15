@@ -4,6 +4,10 @@ slug: me
 template: page
 ---
 
-Classically trained pianist turned software engineer who loves working with UX designers to build interfaces that are a delight to use.
+I'm a classical pianist turned software engineer. I was born in 1994 and grew up in the Philippines. After going to University of Santo Tomas Conservatory of Music studying classical piano performance, I started self learning web development and landed my first internship after 5 months.
 
-I started this website as a place to document everything I learn. I learn in public and write about everything I know.
+I've written code for Uwai, White Widget, and also made a few open source contributions.
+
+I now work full-time as a software engineer at Laguro.
+
+On my free time, I create content all about web development on various platforms including: [Twitter](https://twitter.com/rrjoson)
