@@ -8,7 +8,6 @@ categories:
   - Apollo
 tags:
   - apollo
-
 ---
 
 Let's say you have multiple apollo clients. One of the easiest way to achieve this is to just pass the client to your Query component or useQuery hook.
