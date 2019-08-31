@@ -64,6 +64,6 @@ const User = () => {
 }
 ```
 
-There are other to work with multiple graphql clients in react. If you want to know more, check out this article:
+There are other ways to work with multiple graphql clients in react. If you want to know more, check out this article:
 
 https://medium.com/open-graphql/apollo-multiple-clients-with-react-b34b571210a5
