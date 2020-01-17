@@ -26,7 +26,7 @@ In retrospect, I also realized my original plan had some issues. I thought why w
 After going back to my drawing board, I came up with another hypothesis. I thought that if investors would have a single list of all the deals, and would be able to filter that list based on their preference, then it would save them time. They don't have to go through multiple platforms anymore, they can just use filters to find the deals they want.
 
 ### Building
-![](https://lh3.google.com/u/0/d/1OrXNG0EHkrrJhQ3IG-NHRMmYrcwpSMBM=w1280-h800-iv1)
+![](https://lh3.google.com/u/0/d/1FMp1BhZ-Q4f2oLcD8xTl_ERTbnue85U3=w2878-h1596-iv1)
 
 #### React JS
 Initially, for building the landing page, I tried using [Carrd](https://carrd.co/) to save time but later realized I have to pay to get Google Analytics and other integrations work. So, since I have experience in React JS, I built the landing page from scratch.
@@ -35,32 +35,33 @@ Initially, for building the landing page, I tried using [Carrd](https://carrd.co
 To deploy the landing page, I used Netlify because it makes deployment really easy. You just have to connect your GitHub repo. It also has automatic deployments when you update your GitHub repo.
 
 #### Typeform
-![](https://lh3.google.com/u/0/d/1Y8RnFkBy4ksB1ZRaM4ReemgMaFBSeZW6=w1280-h800-iv1)
 I wanted to create two forms. One form is for getting the user's email before I give them access to the crowd-sourced list. A second form for adding deals to the crowd-sourced list. Instead of creating my own form from scratch, I used Typeform to gather information. I used this instead of other alternatives because I found it to have better UX.
 
+- [Get spreadsheet form](https://ricardojoson.typeform.com/to/C9zY6u)
+- [Add listing form](https://ricardojoson.typeform.com/to/Nl3lc0)
+
 #### Google Sheets
-![](https://lh3.google.com/u/0/d/1sx8qx2bvzUK65XRr7JTmpDLIeK5ZvfnD=w1280-h800-iv1)
-![](https://lh3.google.com/u/0/d/1YdwnSgfyk3AYcogBjYPVrZLB_G0Fh6FP=w1280-h800-iv1)
-For keeping track of the people who wanted access to the spreadsheet and for building the actual spreadsheet, I used Google Sheets. I could have used Airtable but I discovered I have to pay to connect Typeform to Airtable. Every time someone answers my forms, a new row automatically gets added to my Google Sheet.
+For keeping track of the people who wanted access to the spreadsheet and for building the actual spreadsheet, I used Google Sheets. I could have used Airtable but I discovered I have to pay to connect Typeform to Airtable. Every time someone answers my forms, a new row automatically gets a  dded to my Google Sheet.
+
+- [Multi Family Real Estate Spreadsheet](https://docs.google.com/spreadsheets/d/1PH1aTTPIUOV0dQhZjbeGYeF_2PXV0FC44CWgTYrxefg)
+- [Multi Family Real Estate Spreadsheet - Signup](https://docs.google.com/spreadsheets/d/1bvpp3bLoLpcfZm3LXkrl3eKCxKnfO2jLrr9112Trgs4)
 
 #### Zapier
-![](https://lh3.google.com/u/0/d/1iKJLdzE_Tytt1d8YjhHSyBLNVgXxAOfQ=w2878-h1498-iv1)
 I used Zapier for automatically sending emails to the people who signed up to get access to the spreadsheet.
 
 #### Intercom
 I also added intercom to get any user feedback. This might be useful if people have any feedback about what they want to see in the spreadsheet.
 
 #### Google Analytics
-![](https://lh3.google.com/u/0/d/1idl2TIjZi29jFBnnyu2C_Xp1WhmxkJ_n=w1280-h800-iv1)
 To track how many people are visiting my landing page when I launch, I added Google Analytics.
 
 ### Metrics
 To validate my hypothesis, some of the metrics that I can measure are:
 
-- Number of visits in the landing page (Check Google Analytics)
-- Number of people signing up for access to the spreadsheet (Check Google Sheets)
-- Number of contributions to the spreadsheet (Check Google Sheets)
-- Number of people checking the spreadsheet (Check Google Sheets)
+- Number of visits in the landing page
+- Number of people signing up for access to the spreadsheet
+- Number of contributions to the spreadsheet
+- Number of people checking the spreadsheet
 
 ### Retrospective
 
@@ -74,5 +75,3 @@ Lastly, if I had more time, maybe I should have written a script to scrape the w
 
 ### Results
 I wasn't able to test my hypothesis yet but this is the [link](https://multi-family-real-estate-spreadsheet.netlify.com/) to the mini project. Maybe I'll do another blog post about the results if I get the chance to test it.
-
-
