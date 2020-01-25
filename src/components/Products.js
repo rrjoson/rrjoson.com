@@ -6,6 +6,7 @@ export default class Products extends Component {
       <>
         <h1>Stuff I made</h1>
         <p>🚧 Under construction 🚧</p>
+        {/* Libraries, Books, Courses */}
       </>
     );
   }
