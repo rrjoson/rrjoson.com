@@ -11,7 +11,7 @@ export default class Footer extends Component {
         >
           Dev.to
         </a>
-         <a
+        <a
           href="https://www.linkedin.com/in/rrjoson"
           target="_blank"
           rel="noopener noreferrer"

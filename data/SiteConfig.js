@@ -8,7 +8,8 @@ const config = {
   pathPrefix: "",
   dateFromFormat: "YYYY-MM-DD",
   dateFormat: "MMMM Do, YYYY",
-  siteDescription: "RR Joson is a software engineer and writer who breaks down complex concepts in an accessible and intuitive way",
+  siteDescription:
+    "RR Joson is a software engineer and writer who breaks down complex concepts in an accessible and intuitive way",
   siteRss: "/rss.xml",
   googleAnalyticsID: "UA-145099050-1",
   disqusShortname: "",
@@ -28,6 +29,10 @@ const config = {
     {
       name: "Articles",
       link: "/blog/"
+    },
+    {
+      name: "Products",
+      link: "/products/"
     },
     {
       name: "Contact",
