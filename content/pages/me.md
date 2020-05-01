@@ -4,10 +4,22 @@ slug: me
 template: page
 ---
 
-I'm a classical pianist turned software engineer. I was born in 1994 and grew up in the Philippines. After going to University of Santo Tomas Conservatory of Music studying classical piano performance, I started self learning web development and landed my first internship after 5 months.
+Hello there!
 
-I've written code for Uwai, White Widget, and also made a few open source contributions.
+I'm Ricardo – a product-minded software engineer focusing on front-end development.
 
-I now work full-time as a software engineer at Laguro.
+I work with companies around the world to make delightful digital products.
 
-On my free time, I create content all about web development on various platforms including: [Twitter](https://twitter.com/rrjoson)
+You can hire me through [Toptal](https://www.toptal.com/resume/ricardo-raphael-joson) or by directly reaching out to me on [LinkedIn](https://www.linkedin.com/in/rrjoson/).
+
+Check out my work on [GitHub](https://github.com/rrjoson).
+
+I have also given talks here and there and here is a complete list.
+1. Grunt JS for the Lazy Developer - Manila Javascript Meetup 2016
+2. From Musician to Front-End Developer: Lessons Learned - Junior Philippine Computer Society Seminar 2016
+
+
+
+
+
+
