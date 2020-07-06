@@ -27,7 +27,7 @@ export default class Index extends Component {
             <p>
               I'm Ricardo Joson, a classically trained pianist turned software engineer who loves working with UX designers to build interfaces that are a delight to use.
             </p>
-            <h2>🕒 Nowadays</h2>
+            <h1>🕒 Nowadays</h1>
             <p>
               I am currently a software engineer specializing in UI development at  <a href="https://www.apollo.io/">Apollo</a> (YC W16).
               <br />
