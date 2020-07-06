@@ -29,8 +29,9 @@ export default class Index extends Component {
             </p>
             <h2>🕒 Nowadays</h2>
             <p>
-              I am currently a software engineer specializing in UI development at [Apollo](https://www.apollo.io/) (YC W16).
-              Outside of Apollo, I am a mentor at [MentorCruise](https://mentorcruise.com/), a global platform connecting mentors and mentees in tech.
+              {`I am currently a software engineer specializing in UI development at  <a href="https://www.apollo.io/">Apollo</a> (YC W16).
+
+              Outside of Apollo, I am a mentor at <a href="https://mentorcruise.com/">MentorCruise</a>, a global platform connecting mentors and mentees in tech.`}
             </p>
             <div className="social-buttons">
               <div>
