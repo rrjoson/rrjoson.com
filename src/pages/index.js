@@ -27,6 +27,11 @@ export default class Index extends Component {
             <p>
               I'm Ricardo Joson, a classically trained pianist turned software engineer who loves working with UX designers to build interfaces that are a delight to use.
             </p>
+            <h2>🕒 Nowadays</h2>
+            <p>
+              I am currently a software engineer specializing in UI development at [Apollo](https://www.apollo.io/) (YC W16).
+              Outside of Apollo, I am a mentor at [MentorCruise](https://mentorcruise.com/), a global platform connecting mentors and mentees in tech.
+            </p>
             <div className="social-buttons">
               <div>
                 <a
