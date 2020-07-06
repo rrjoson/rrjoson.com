@@ -9,11 +9,11 @@ export default class UserInfo extends Component {
         <div className="container note-container">
           <div className="flex-author">
             <div className="flex-avatar">
-              <img className="avatar" src={rr} alt="RR Joson" />
+              <img className="avatar" src={rr} alt="Ricardo Joson" />
             </div>
             <div>
               <p>
-                {`I'm RR, a classically trained pianist turned
+                {`I'm Ricardo Joson, a classically trained pianist turned
                 software engineer who loves working with UX designers
                 to build interfaces that are a delight to use.
                 `}
