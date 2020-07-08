@@ -28,6 +28,7 @@ export default class Index extends Component {
               I'm Ricardo Joson, a classically trained pianist turned software engineer.
               Currently, I'm a software engineer specializing in UI development at Apollo (YC W16).
               <br />
+              <br />
               Outside of Apollo, I am a mentor at <a href="https://mentorcruise.com/mentor/RicardoJoson/" target="_blank">MentorCruise</a>, a global platform connecting mentors and mentees in tech.
             </p>
             <div className="social-buttons">
