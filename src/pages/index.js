@@ -25,7 +25,9 @@ export default class Index extends Component {
           <div className="lead">
             <h1>👋🏽️ Hi there!</h1>
             <p>
-              I'm Ricardo Joson, a classically trained pianist turned software engineer who loves working with UX designers to build interfaces that are a delight to use.
+              I'm Ricardo Joson, a classically trained pianist turned software engineer.
+              Currently, I'm a software engineer specializing in UI development at Apollo (YC W16).
+              Outside of Apollo, I am a mentor at MentorCruise, a global platform connecting mentors and mentees in tech.
             </p>
             <div className="social-buttons">
               <div>
