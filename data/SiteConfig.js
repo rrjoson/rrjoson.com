@@ -22,10 +22,10 @@ const config = {
   userDescription:
     "I build open source projects and write the missing instruction manuals of the web.",
   menuLinks: [
-    {
-      name: "Me",
-      link: "/me/"
-    },
+    // {
+    //   name: "Me",
+    //   link: "/me/"
+    // },
     {
       name: "Blog",
       link: "/blog/"

@@ -25,11 +25,10 @@ export default class Index extends Component {
           <div className="lead">
             <h1>👋🏽️ Hi there!</h1>
             <p>
-              I'm Ricardo Joson, a classically trained pianist turned software engineer.
-              Currently, I'm a software engineer specializing in UI development at Apollo (YC W16).
+              I'm Ricardo, a software engineer at <a href="https://www.apollo.io/" target="_blank">Apollo (Y Combinator Winter 2016)</a>, bringing simple and intelligent go-to-market to the masses, so that every business can reach their full potential.
               <br />
               <br />
-              Outside of Apollo, I am a mentor at <a href="https://mentorcruise.com/mentor/RicardoJoson/" target="_blank">MentorCruise</a>, a global platform connecting mentors and mentees in tech.
+              Outside of Apollo, I am a mentor at <a href="https://mentorcruise.com/mentor/RicardoJoson/" target="_blank">MentorCruise</a>, helping people jumpstart their career in tech through personalized mentorship and coaching.
             </p>
             <div className="social-buttons">
               <div>
